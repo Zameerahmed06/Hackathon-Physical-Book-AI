@@ -96,7 +96,7 @@ div[class^='codeBlockContainer'] {
 
 /* Hero section with gradient background */
 .hero--primary {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: black;
   color: white;
   padding: 5rem 2rem !important;
   position: relative;
