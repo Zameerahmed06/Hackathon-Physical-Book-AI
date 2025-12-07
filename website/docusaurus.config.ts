@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Physical AI & Humanoid Robotics',
+  title: 'Physical AI & Humanoid Robotics Book',
   tagline: 'Designing smart, real-world interactive machines',
   favicon: 'img/favicon.ico',
 
@@ -71,7 +71,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Physical AI Textbook',
+      title: 'My AI Textbook',
       logo: {
         alt: 'Physical AI Logo',
         src: 'img/logo.svg',
@@ -81,7 +81,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'textbookSidebar',
           position: 'left',
-          label: 'Chapters',
+          label: 'Book Course',
         },
         {
           href: 'https://github.com/yourusername/physical-ai-textbook',
